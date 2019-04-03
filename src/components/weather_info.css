@@ -1,0 +1,8 @@
+.weather-box{
+    display: box;
+    margin-left: 5vw;
+}
+
+li {
+    margin-bottom: 5px;
+}
