@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## installation
+**IMPORTANT**
+Need to install items below
+1) react-router-dom : $ npm install --save react-router-dom
+2) react-usa-map : $ npm install react-usa-map --save
+
 ## Available Scripts
 
 In the project directory, you can run:
